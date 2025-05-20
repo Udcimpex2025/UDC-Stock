@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "stock-checker-460406",
+  "private_key_id": "b7adc48ef1a7d1f4b878ab0f0f5cf1933f48d90a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCxa8e+yYM2Y/6B\nyXTfrwc+4IkIdKN/IsBnh0RI6AnPhEVtQmFnUOW9I6/Qbf5j1wq8BJfELOHg27+l\nY6WZ1NysVJKZvSuYJzqhx032jqcH9IegBVrmoXzNW1CRNWAj1r+luaucAy3gDsO7\n1zYQsli2xF1ikkgM4tPJMG1xEnQmW7vXXjXf6eR8Gpxkv7YG9BifYyEpiLCNw99M\nk4VAJCVNmWqt08fUMBDxlAJhrnKWalfDpqmPhABl+Hjj9T40dxadHWtnu48lsNLp\nk3PmbQrPnB/ZdLH8gX71Ip4IVsUFr12Qrorg/+1vcch+vGiKnJzyEKwzIIlk6YNB\nnfWYYaADAgMBAAECggEAGU2AOqbdhivDl7nl56K8G00FbgXIbXDE1N73L5icEZLR\nHfBqGMRyR0OoJscREScRelgDVvB5tEpSriEkdGhlolQbZj6S0YvCsmDMrx2QF7PZ\nhcpNuPeN53Ge716X2/Sb92Qf48uWRs6EPq1GIiJ1QXeGw/CNwvy0bIxyBz60/uU3\n44ARZpV6aO+syg4LPVxnSVLBHx6Y0TzRuW7A4DVCnU13Nn0kNLU8PkwxKfx+CLkb\nhrokKG/+Eh47Z3qxh4Fpd2iex3zr45GtGgMP8eBK0/Uv+3hkk9qNhUC61oJ6Td63\nuJ613sonCDfDJ2RjdvFHKAbh2DMZzWCtLje2USy4NQKBgQD1ZFdM1QN19JBw8ihy\nD9H/ySQuoTkFCrv/2+KA2KLScsGxwSAYQkwW/q9dMPxF6EoLT7hfEtMyo50PFiPc\nc0msKoTdOFUqRTWRKZ2YjguPO7EtJV4HzwsR0BlbIdH3FlSoqDZ271G3KwjSrU6F\nyBE0CmHq7tek0RbH3VykyHI9HQKBgQC5FzsXQkkvswTX0eKQ6AKRMhxQeD20MvBY\njTR6/XYZQIoOyxWyAv+1wrrO5nOIf8BKRCT95xUshnzzn9PYwia/Q/ZR15iW56Rk\nT4+xjMVvyxSmn6U233dY7Cr2T8iH+LiYy/jBjh4TzPDU3R+i/LNQb/zR3OAj2Ujc\n+X37wYNnnwKBgQDeOc5tgAKwUZh1EHfcQ8Nzlt4zdEHE9SGn5aNL9+QMHWyX40OD\ndJafxGlfRbtQO7rCX6GiR9QHafAT94LmY2l2htLn29oUe7S1DzDvNMP3JKGhNtPe\n0ns92Gz+ALS6xPhJ/HvGXZhs/oXw9I3FzZb2v+hI759OXSP6P9dkSzpZaQKBgHoT\nqWSw0oaEY2hZRT7f13mefHBSrhfhFQbCs19/Ntp259fT+I49Thy6v+1gr8jSwaf6\nBA/2zs9cMKOaweYQP/AcyiS2tyyowZNrqlGnkD0oy4kOeLCVeSkMM1Xbz15nHJGi\nzoIS0yGqJRmwcoJUe4xNIInmTWs3j8g3QfG/c4TvAoGAUcvdA+EJjHDKX7PpL849\nMizo+piIyJW+wmIW3cQeKn9r/N/2yqtO2LFDKO2oAWglRo1XRbJ7Qa6XsbxSacvP\nFIJhv8ZDa3Ar8w8XI7A9hl24VXEskNQe/fo4QUAvUmQYQLFkatz4A9zZB1z5P6aN\nl/AY3zVVaevqqQKeh4B1jCQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sheets-access-bot@stock-checker-460406.iam.gserviceaccount.com",
+  "client_id": "110992769745553482138",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sheets-access-bot%40stock-checker-460406.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
